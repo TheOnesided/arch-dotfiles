@@ -10,9 +10,6 @@ A minimalist Hyprland rice for Arch Linux, styled with soft **pastel purple** to
 
 https://github.com/user-attachments/assets/91225019-98ac-464f-a47e-0fbe95b89de4
 
-88c7f8b
-
-
 ---
 
 ## ✨ Features
